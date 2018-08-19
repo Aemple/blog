@@ -1,1 +1,2 @@
-# blog
+Aemple blog
+www.aemple.top
